@@ -20,11 +20,11 @@
     "localtunnel": "1.8.1",
     "promptly": "2.1.0"
   },
-  "homepage": "https://github.com/acmatuc/groupme-bot-starter",
-  "bugs": "https://github.com/acmatuc/groupme-bot-starter/issues",
+  "homepage": "https://github.com/KE8JCT/groupme-bot-starter",
+  "bugs": "https://github.com/KE8JCT/groupme-bot-starter/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/acmatuc/groupme-bot-starter.git"
+    "url": "https://github.com/KE8JCT/groupme-bot-starter.git"
   },
   "license": "MIT"
 }
